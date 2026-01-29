@@ -15,3 +15,4 @@ This project highlights my understanding of database design, SQL operations, and
 3. ** SQL Queries**: Developed queries to analyze and retrieve specific data from the database.
 
 ## Project Structure
+![Library Management System ER Diagram](library_erd.png)
