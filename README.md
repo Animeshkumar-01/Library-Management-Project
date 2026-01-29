@@ -3,6 +3,7 @@
 ## Project Overview
 
 **Project Title**: Library Managment System
+**Database**: `library_db`
 
 In this project, I implemented a Library Management System using SQL.
 I designed the database structure, created and managed tables, performed CRUD operations, and wrote SQL queries to retrieve and manage data efficiently.
@@ -105,3 +106,7 @@ CREATE TABLE return_status
 );
 
 ```
+
+## Conclusion
+
+Through this project, I practiced using SQL to create and manage a Library Management System. It includes database setup, data manipulation, and querying, which helped me strengthen my understanding of SQL and data management.
