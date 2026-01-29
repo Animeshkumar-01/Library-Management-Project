@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project Title**: Library Managment System
+**Project Title**: Library Managment System<br>
 **Database**: `library_db`
 
 In this project, I implemented a Library Management System using SQL.
